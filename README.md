@@ -1,7 +1,7 @@
-# 🛢️ SQL Leetoce questions
+# 🛢️ SQL Leetcode questions
 
 ## ⬇️Contains
-
+s
 - questions to practice and improve your sql skills.
 
 
